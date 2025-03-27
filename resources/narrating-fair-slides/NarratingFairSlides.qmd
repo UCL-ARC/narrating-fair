@@ -1,6 +1,7 @@
 ---
 title: "Narrating FAIR: recognising and rewarding FAIR practices and the use of narrative CVs"
 author: "Samantha Ahern and Vicki Yorke Edwards"
+licence: "CC BY SA"
 format:
   pptx:
     incremental: true 
