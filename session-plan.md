@@ -11,6 +11,8 @@ Learning aims for workshop participants are:
 * Construct an example Narrative CV for their area demonstrating FAIR 
 * Express ways forward in recognising and rewarding FAIR in their context
 
+We have suggested the use of Mentimeter or an equivalent tool that will enable anonymous participation.
+
 ## Session outline
 
 ### Introduction (0-10 mins)
