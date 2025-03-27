@@ -1,5 +1,7 @@
 # Narrating FAIR workshop 
 
+This document is made available under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
 A recognised barrier to FAIR practices is lack of recognition, the purpose of this workshop is to reduce that barrier. 
 The workshop is targeted at those with line management responsibilities. Maximum of 20 participants per session. 
 
