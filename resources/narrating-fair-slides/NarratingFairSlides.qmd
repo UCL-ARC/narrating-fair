@@ -1,0 +1,124 @@
+---
+title: "Narrating FAIR: recognising and rewarding FAIR practices and the use of narrative CVs"
+author: "Samantha Ahern and Vicki Yorke Edwards"
+format:
+  pptx:
+    incremental: true 
+---
+
+## Session Aims
+
+:::: {.columns}
+
+::: {.column}
+::: {.nonincremental}
+- Recognise benefits of FAIR practices
+- Recognise FAIR on Narrative CVs
+- Construct an example Narrative CV for your area demonstrating FAIR 
+- Express ways forward in recognising and rewarding FAIR in your context 
+:::
+:::
+
+::: {.column}
+![Diagram showing multiple data types](dataTypes.svg)
+:::
+::::
+
+# Why should we care?
+
+## Case studies of good practices in FAIR
+
+- Use examples relevant to your context
+
+# Narrative CVs and FAIR
+
+## Background
+
+::: {.nonincremental}
+- Royal Society: Resume for Researchers
+-- Developed as part of the Changing Expectations programme
+-- ‘standardised short format CV that emphasises the wider contributions to the research system’
+-- Designed to recognise the broader contributions to the scientific endeavour
+
+- UKRI: Résumé for Research and Innovation (R4RI)
+-- Shows evidence of a wider range of skills and experience than a traditional academic CV when applying for UKRI funding opportunities.
+-- Halfway between a CV and cover letter - provides the space to explain the context of your achievements.
+-- In use in all funding opportunities on the UKRI Funding Service that require track record information.
+
+:::
+
+## Modules
+
+![4 component modules of Narrative CVs](NarrativeCVsModules.png)
+## Contribution to Generation of Knowledge
+
+::: {.nonincremental}
+- Contribution to the generation of new ideas and hypotheses 
+- Key skills used to develop ideas and test hypotheses. 
+- Approach to communicating ideas and research results, both written and verbally. 
+- Funding that has been won and any awards received. 
+- It can include a small selection of outputs, with a description of why they are of particular relevance and why they are considered in the context of knowledge generation. 
+:::
+
+## Generation of Knowledge: Example outputs
+::: {.nonincremental}
+- open data sets, 
+- software, 
+- publications, commercial, entrepreneurial or industrial products,
+- clinical practice developments, 
+- educational products, 
+- policy publications, 
+- evidence synthesis pieces, 
+- and conference publications that have been generated. 
+:::
+
+## Contribution to the Development of Individuals
+::: {.nonincremental}
+- Expertise provided which was critical to the success of a team or team members including project management, collaborative contributions, and team support. 
+- Teaching activities, workshops or summer schools in which you were involved (for undergrads, grads and post-grads as well as junior colleagues), and the supervision of students and colleagues. 
+- Mentoring of members in your field and the support provided to the advancement of colleagues, be it junior or senior. 
+- Establishment of collaborations, from institutional (maybe interdisciplinary) to international. 
+- Exertion of strategic leadership, shaping of the direction of a team, organisation, company or institution.
+:::
+
+## Contribution to the Wider Research Community
+::: {.nonincremental}
+- Various activities engaged in to progress the research community. 
+- Various commitments including editing, reviewing, refereeing, committee work and contributions to the evaluation of researchers and research projects. 
+- Organisation of events that have benefited your research community. It can highlight contributions to increasing research integrity, and improving research culture (gender equality, diversity, mobility of researchers, reward and recognition of researchers’ various activities).
+- Appointments to positions of responsibility such as committee membership and corporate roles within your department, institution or organisation, and recognition by invitation within your sector.
+:::
+
+## Contribution to Broader Society
+::: {.nonincremental}
+- Examples of societal engagement and knowledge exchange. It can include engagement with industry and the private sector. 
+- Engagement with the public sector, clients and the broader public.
+- Positive stakeholder feedback, inclusion of patients in processes and clinical trials, and other impacts across research, policy, practice and business. 
+- Efforts to collaborate with particular societal or patient groups. 
+- Efforts to advise policy-makers at local, national or international level and provide information through the press and on social media.
+:::
+
+## Synergies with FAIR
+::: {.nonincremental}
+- Knowledge
+-- Open publication of data, software and research outcomes
+
+- Development
+-- Determining metadata schema for a project
+-- Training others in open scholarship practices
+
+- Research Community
+-- Contributing to national,  and international standards
+-- Editing or reviewing open access publications
+-- Being on data access committees
+
+- Society
+
+:::
+
+## What would FAIR look like on a Narrative CV for your discipline?
+- Co-Design Activity
+
+## Discussion: opportunities and blockers for use in shortlisting and promotion processes
+
+## What are your next steps?
