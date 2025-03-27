@@ -1,6 +1,7 @@
 # Narrating FAIR: recognising and rewarding FAIR practices and the use of narrative CVs
 
 Repository of materials for pilot workshop, to eventually include GH pages for self-use resources.
+Materials in this repository are available under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/ )
 
 **Why this workshop:**
 
